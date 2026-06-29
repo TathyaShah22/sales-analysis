@@ -2,7 +2,7 @@
 <h3 align="left">About</h3>
 Superstore is close to a real-world fake dataset with 10,000 records of sales information. The aim of this project is to provide KPIs and insights to monitor trends. To start, cleaning of the dataset is done in Python, performing exploratory data analysis and mining impactful insights utilizing pandas, numpy, and pandasql.
 
-<h4> Fun Fact - I used both Pandas and PandaSQL (to execute SQL queries) to answer business questions. The major reason is to check the number of lines of code and the impact of outputs from both libraries on a single screen. Also, I am a MAC user  😌 </h4>
+<h4> Fun Fact - I used both Pandas and PandaSQL (to execute SQL queries) to answer business questions. The major reason is to check the number of lines of code and the impact of outputs from both libraries on a single screen. </h4>
 
 <h3 align="left">Languages and Tools Used</h3>
 <p>Python
